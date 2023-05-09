@@ -1,5 +1,5 @@
 {
-  "name": "gulp-ts-paths",
+  "name": "gulp-tsconfig-paths",
   "version": "1.0.0",
   "description": "处理 tsconfig.json 的 paths alias",
   "main": "index.js",
