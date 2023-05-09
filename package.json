@@ -1,0 +1,26 @@
+{
+  "name": "gulp-ts-paths",
+  "version": "1.0.0",
+  "description": "处理 tsconfig.json 的 paths alias",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "tsc"
+  },
+  "keywords": [
+    "gulp",
+    "typescript",
+    "tsconfig"
+  ],
+  "author": "NealST",
+  "license": "ISC",
+  "dependencies": {
+    "o-stream": "^0.3.0",
+    "plugin-error": "^2.0.1",
+    "tslib": "^2.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.1.1",
+    "typescript": "^5.0.4"
+  }
+}

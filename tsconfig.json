@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "declaration": false,
+        "importHelpers": true,
+        "lib": [
+            "ESNext",
+            "DOM"
+        ],
+        "module": "CommonJS",
+        "moduleResolution": "Node",
+        "esModuleInterop": true,
+        "noEmitOnError": true,
+        "target": "ES5",
+        "skipLibCheck": true,
+        "outDir": "lib"
+    },
+    "include": ["src/index.ts"]
+}
